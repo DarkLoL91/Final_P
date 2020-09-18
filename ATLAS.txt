@@ -1,0 +1,34 @@
+Atlas:
+-Decoración (2k, 4k)
+	Paredes
+	Placas suelo
+	Vigas
+	Madera
+	Ladrillos
+	Macetas
+	Piedras
+	Vallas
+
+-Plantas:(1k, 2k)
+	Verduras
+	Plantas
+	Arbustos
+	Enredaderas
+
+-Suelo (1k,2k)
+	Pasillo piedras
+	Módulos tierra
+	Césped
+
+-Herramientas (1k, 2k)
+	Herramientas de uso del personaje
+
+-Objetos de trabajo (2k,4k)
+	Mesa de trabajo
+	Cajas
+	Sacos
+	Estanterías
+	Puerta
+
+	
+	
