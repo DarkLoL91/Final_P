@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 10/20/20 12:05:32
+=======
+﻿Log file open, 10/23/20 08:51:35
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 10/23/20 08:51:35
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak 
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.451886
+=======
+LogStats: Stats thread started at 0.455734
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.455734
 >>>>>>> Stashed changes
@@ -103,7 +111,11 @@ LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStreaming: Display: Took  0.173s to configure plugins.
+=======
+LogStreaming: Display: Took  0.155s to configure plugins.
+>>>>>>> Stashed changes
 =======
 LogStreaming: Display: Took  0.155s to configure plugins.
 >>>>>>> Stashed changes
@@ -166,6 +178,7 @@ LogInit: Presizing for max 8388607 objects, including 0 objects not considered b
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2020.10.20-10.05.33:844][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.10.20-10.05.33:844][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -6257,6 +6270,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.20-11.02.01:068][ 28]LogExit: Exiting.
 [2020.10.20-11.02.01:087][ 28]Log file closed, 10/20/20 13:02:01
 =======
+=======
+>>>>>>> Stashed changes
 [2020.10.23-06.51.36:872][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.10.23-06.51.36:872][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.10.23-06.51.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Usuavj/Documents/GitHub/Final_P/Unreal/Demo_Diorama/Saved/Config/Windows/Engine.ini]
@@ -10304,4 +10319,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.23-12.14.19:032][528]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2020.10.23-12.14.19:040][528]LogExit: Exiting.
 [2020.10.23-12.14.19:050][528]Log file closed, 10/23/20 14:14:19
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
