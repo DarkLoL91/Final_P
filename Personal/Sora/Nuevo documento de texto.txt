@@ -1,0 +1,17 @@
+	Elias
+
+Extractor max+fbx+ps+Textura+ UV
+Estanterias max+fbx
+Pala fbx+max+ps+Textura+ UV
+PDA fbx+max+ps+ textures+uv
+tijerasDePodar_L+S fbx+max+ps+ textures+uv
+Valla fbx+max+ps+ textures+uv
+
+	Aismar
+
+Arbol fbx+3dmax
+cryo capsule fbx + textures
+locker fbx + textures
+robot fbx + textures
+deposito agua fbx + textures
+
